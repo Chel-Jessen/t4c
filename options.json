@@ -1,0 +1,73 @@
+{
+  "main": {
+        "1": "Titel",
+        "2": "Kurzbeschreibung",
+        "3": "Langbeschreibung",
+        "4": "Produktmerkmale",
+        "5": "Sonstiges",
+        "6": "Voreingestellt",
+        "0": "Keine weiteren Eingaben"
+    },
+  "Titel": {
+        "1": "Titel mit maximal 50 Zeichen",
+        "2": "Titel nur mit Modellbezeichnung mit maximal 70 Zeichen",
+        "3": "Titel mit maximal 80 Zeichen",
+        "4": "Titel mit maximal 120 Zeichen",
+        "5": "Titel mit maximal 132 Zeichen in Französisch",
+        "6": "Titel mit maximal 140 Zeichen",
+        "7": "Titel mit maximal 150 Zeichen",
+        "8": "Titel mit maximal 200 Zeichen",
+        "9": "Titel ohne Limit",
+        "10": "Titel nur mit Artikelnummer mit maximal 100 Zeichen",
+        "11": "Titel nur mit Artikelname",
+        "0": "Titel löschen"
+    },
+  "Kurzbeschreibung": {
+        "1": "Kurzbeschreibung mit maximal 140 Zeichen",
+        "2": "Kurzbeschreibung mit maximal 150 Zeichen",
+        "3": "Kurzbeschreibung mit maximal 250 Zeichen in Französisch",
+        "4": "Kurzbeschreibung mit maximal 1000 Zeichen im HTML-Format",
+        "5": "Kurzbeschreibung ohne Limit",
+        "6": "Kurzbeschreibung in Bulletpoints ohne Limit",
+        "7": "Kurzbeschreibung in Bulletpoints ohne Limit im HTML-Format",
+        "0": "Kurzbeschreibung löschen"
+    },
+  "Langbeschreibung": {
+        "1": "Langbeschreibung mit maximal 2000 Zeichen",
+        "2": "Langbeschreibung mit maximal 2000 Zeichen im HTML-Format",
+        "3": "Langbeschreibung mit maximal 4000 Zeichen",
+        "4": "Langbeschreibung mit maximal 4000 Zeichen im HTML-Format",
+        "5": "Langbeschreibung mit maximal 5000 Zeichen",
+        "6": "Langbeschreibung mit maximal 5000 Zeichen in Französisch",
+        "7": "Langbeschreibung mit maximal 5000 Zeichen im HTML-Format",
+        "8": "Langbeschreibung ohne Limit",
+        "0": "Langbeschreibung löschen"
+    },
+  "Produktdetails": {
+        "1": "Produktmerkmale in maximal 5 Bulletpoints und maximal 50 Zeichen pro Bulletpoint",
+        "2": "Produktmerkmale in maximal 5 Bulletpoints (minimal 3 – maximal 5 Wörter pro Bulletpoint)",
+        "3": "Produktmerkmale in maximal 5 Bulletpoints und maximal 180 Zeichen pro Bulletpoint",
+        "4": "Produktmerkmale in maximal 10 Bulletpoints und maximal 200 Zeichen pro Bulletpoint",
+        "5": "Produktmerkmale in Bulletpoints ohne Limit",
+        "0": "Produktdetails löschen"
+    },
+  "Misc": {
+        "1": "Artikelnummer",
+        "2": "Meta-Beschreibung in 2 Sätzen",
+        "3": "4 Meta-Keywords in Kombination mit den Wörtern B2B und Dropshipping",
+        "4": "20 Keywords",
+        "5": "Ebay Kategorie",
+        "6": "Kaufland Kategorie",
+        "0": "Misc löschen"
+    },
+  "Voreingestellt": {
+    "ebay": {
+      "Titel": "1",
+      "Kurzbeschreibung": "2",
+      "Langbeschreibung": "3",
+      "Produktdetails": "",
+      "Misc": ["1", "3"]
+    },
+    "amazon": {}
+  }
+}
